@@ -30,5 +30,4 @@ class MainActivity : AppCompatActivity() {
         binding.rvFibonacciNumbers.layoutManager=LinearLayoutManager(this)
         binding.rvFibonacciNumbers.adapter = numberAdapter
     }
-
 }
